@@ -3,7 +3,7 @@ package jp.co.myself.javase7;
 public class Sample1_6 {
 	
 	public static void main(String[] args) {
-		// 以下のコメント分は、コンパイルエラーになる文です。
+		// 以下のコメント文は、コンパイルエラーになる文です。
 		//float x1 = 3_.1415F;
 		//float x2 = 3._1415F;
 		//long x3 = 999_99_9999_L;
