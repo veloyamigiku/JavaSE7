@@ -1,4 +1,4 @@
-package jp.co.myself.javase7;
+package jp.co.myself.javase7.chap1;
 
 public class Sample1_5 {
 	

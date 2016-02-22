@@ -1,4 +1,4 @@
-package jp.co.myself.javase7;
+package jp.co.myself.javase7.chap1;
 
 class Foo {
 	final int num1 = 10;

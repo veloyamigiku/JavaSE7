@@ -1,8 +1,8 @@
-package jp.co.myself.javase7;
+package jp.co.myself.javase7.chap1;
 
-public class Sample1_2 {
+public class Sample1_3 {
 	
-	static int num;
+	static Integer num;
 	
 	public static void main(String[] args) {
 		switch (num) {
@@ -14,4 +14,5 @@ public class Sample1_2 {
 			break;
 		}
 	}
+	
 }

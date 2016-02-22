@@ -1,4 +1,4 @@
-package jp.co.myself.javase7;
+package jp.co.myself.javase7.chap1;
 
 import static java.lang.System.out;
 import static java.lang.Math.random;
