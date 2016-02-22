@@ -14,6 +14,8 @@ class Sub extends Super {
 		s = "渡された文字列は[" + s + "]です";
 		System.out.println("Sub print:" + s);
 	}
+	// 下記のオーバーライドは、公開範囲が狭くなるためコンパイルエラーになります。
+	//void method() {}
 }
 public class Sample2_1 {
 	
