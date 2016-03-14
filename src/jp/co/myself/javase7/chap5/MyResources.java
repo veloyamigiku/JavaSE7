@@ -6,8 +6,8 @@ public class MyResources extends ListResourceBundle {
 	
 	@Override
 	protected Object[][] getContents() {
-		Object[][] contents = {{"send", "送信",
-								"cancel", "取り消し"}};
+		Object[][] contents = {{"send", "送信"},
+								{"cancel", "取り消し"}};
 		return contents;
 	}
 	
