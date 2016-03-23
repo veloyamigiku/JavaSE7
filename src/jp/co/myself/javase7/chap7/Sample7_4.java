@@ -12,12 +12,11 @@ public class Sample7_4 {
 			rf.read();
 		} catch (ArithmeticException | FileNotFoundException e) {
 			e.printStackTrace();
-			// 参照変数への再代入は出来ません。
+			// マルチキャッチによる、参照変数への再代入は出来ません。
 			//e = null;
 		} catch (IOException e) {
 			e.printStackTrace();
-			// 参照変数への再代入は出来ません。
-			//e = null;
+			e = null;
 		}
 	}
 }
